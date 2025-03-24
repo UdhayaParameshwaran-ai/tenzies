@@ -4,3 +4,4 @@ It is the simple React game where users can roll until all dice are the same. Cl
 current value between rolls.
 
 # Screenshots
+![image alt]()
